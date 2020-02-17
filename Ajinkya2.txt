@@ -1,1 +1,2 @@
 This is the second file to be added to the Git Folder.
+Second file also now has 2 lines.
