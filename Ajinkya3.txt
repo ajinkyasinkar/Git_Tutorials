@@ -1,2 +1,0 @@
-This is a third file to be added to Git.
-Third file also now has 2 lines.
