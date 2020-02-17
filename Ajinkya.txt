@@ -1,3 +1,2 @@
 First try with Git.
 Second line added after the first.
-Now, we have a third line in the first file.
