@@ -1,2 +1,2 @@
 First try with Git.
-
+Second line added after the first.
